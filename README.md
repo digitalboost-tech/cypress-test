@@ -20,3 +20,6 @@ You may find the Cypress documentation useful - particularly pages such as [Inte
 
 
 Please see here for a recording of a full Boost Call booking flow:
+
+https://user-images.githubusercontent.com/29519739/115618096-20b96500-a2ea-11eb-801c-2cc0d2025793.mov
+
